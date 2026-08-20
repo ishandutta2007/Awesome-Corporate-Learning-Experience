@@ -1,6 +1,6 @@
 # Awesome-Corporate-Learning-Experience
 
-## Top Corporate Learning Experience (LXP) Platforms Ecosystem
+### Top Corporate Learning Experience (LXP) Platforms Ecosystem
 
 **Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
 *Focused on Corporate Learning Experience, Personalized Learning, Skills Development, Content Curation & Workforce Upskilling*  
