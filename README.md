@@ -31,74 +31,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-- **[Degreed](https://degreed.com/)**  
-  Enterprise learning-experience and skills platform focused on personalized learning, content aggregation, skills profiles, learning pathways, recommendations, workforce development, and career mobility. :contentReference[oaicite:1]{index=1}
-
-- **[EdCast](https://www.edcast.com/)**  
-  Enterprise learning-experience platform focused on personalized learning, knowledge discovery, content aggregation, skills development, and learning journeys.
-
-- **[360Learning](https://360learning.com/)**  
-  Collaborative learning platform combining LXP capabilities, content aggregation, expert-created courses, social learning, AI capabilities, and LMS integrations.
-
-- **[Docebo](https://www.docebo.com/)**  
-  Enterprise learning platform combining LMS and learning-experience capabilities, content management, AI-powered learning, personalization, analytics, and integrations.
-
-- **[Learn Amp](https://www.learnamp.com/)**  
-  Employee learning and engagement platform combining learning, performance, engagement, social learning, content, and people-development capabilities.
-
-- **[Valamis](https://www.valamis.com/)**  
-  Enterprise learning and knowledge platform focused on personalized learning, skills development, knowledge sharing, learning analytics, and workforce transformation.
-
-- **[Cornerstone Learning Experience](https://www.cornerstoneondemand.com/)**  
-  Enterprise learning-experience capabilities within the Cornerstone ecosystem, providing personalized content discovery, learning pathways, skills, recommendations, and workforce development.
-
-- **[HowNow](https://www.gethownow.com/)**  
-  Learning and knowledge platform focused on contextual learning, knowledge discovery, AI-powered recommendations, employee enablement, and learning in the flow of work.
-
-- **[Disprz](https://disprz.com/)**  
-  AI-powered corporate learning and skills platform focused on personalized learning, skills intelligence, content, assessments, and workforce capability development.
-
-- **[Thrive Learning](https://www.thrivelearning.com/)**  
-  Learning-experience platform combining personalized feeds, social learning, communities, mentoring, AI-powered content discovery, pathways, compliance learning, and LMS capabilities. :contentReference[oaicite:2]{index=2}
-
-- **[Fuse Universal](https://www.fuseuniversal.com/)**  
-  Learning and knowledge platform emphasizing user-generated content, social learning, knowledge sharing, and learning in the flow of work.
-
-- **[Schoox](https://www.schoox.com/)**  
-  Corporate learning platform combining learning management, employee development, social learning, content, and analytics.
-
-- **[Skillsoft Percipio](https://www.skillsoft.com/percipio)**  
-  Enterprise learning-experience and content platform providing personalized learning, skill development, curated content, and learning analytics.
-
-- **[Go1](https://www.go1.com/)**  
-  Enterprise learning-content platform aggregating courses and learning resources from multiple providers.
-
-- **[Moodle Workplace](https://moodle.com/workplace/)**  
-  Enterprise Moodle offering organizational learning management, learning programs, certifications, reporting, and integrations.
-
-- **[SAP SuccessFactors Learning](https://www.sap.com/products/hcm/learning.html)**  
-  Enterprise learning platform integrated with SAP's HCM ecosystem for employee development, learning, compliance, and skills.
-
-- **[Workday Learning](https://www.workday.com/)**  
-  Enterprise learning platform integrated with Workday HCM for learning, development, skills, and workforce capabilities.
-
-- **[Oracle Learning](https://www.oracle.com/human-capital-management/learning/)**  
-  Enterprise learning platform integrated with Oracle Cloud HCM for employee development, learning, compliance, and skills.
-
-- **[LinkedIn Learning](https://learning.linkedin.com/)**  
-  Enterprise learning-content platform providing professional courses, personalized recommendations, skills content, and workforce-learning integrations.
-
-- **[Coursera for Business](https://www.coursera.org/business)**  
-  Enterprise learning platform providing professional courses, credentials, skills development, and learning analytics.
-
-- **[Udemy Business](https://business.udemy.com/)**  
-  Enterprise learning-content platform providing a large catalog of professional courses and skills-development content.
-
-- **[Pluralsight](https://www.pluralsight.com/business)**  
-  Technology-skills learning platform providing courses, assessments, skill analytics, and technical workforce development.
-
-- **[O'Reilly Learning](https://www.oreilly.com/online-learning/)**  
-  Enterprise technical learning platform offering books, courses, videos, interactive content, and learning resources.
+| Platform | Focus & Capabilities | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Degreed](https://degreed.com/)** | Enterprise learning-experience and skills platform focused on personalized learning, content aggregation, skills profiles, learning pathways, recommendations, workforce development, and career mobility. | Free for individual accounts; Enterprise tier starts at ~$10.00–$15.00/user/month (~$120–$180/user/year, typically ~$25,000 minimum annual contract) | Free-forever personal tier (1 user, individual skills tracking, pathway curation, content bookmarking; no enterprise SSO/admin); Enterprise sandbox/POC available upon sales request |
+| **[EdCast](https://www.edcast.com/)** | Enterprise learning-experience platform focused on personalized learning, knowledge discovery, content aggregation, skills development, and learning journeys. | Starts at ~$8.00–$12.00/user/month (~$96–$144/user/year, minimum annual contract ~$20,000) | 14-day guided proof-of-concept / sandbox trial upon sales request (sample tenant, limited test learners) |
+| **[360Learning](https://360learning.com/)** | Collaborative learning platform combining LXP capabilities, content aggregation, expert-created courses, social learning, AI capabilities, and LMS integrations. | Team plan starts at $8.00/user/month (up to 100 users, monthly or annual billing) | 30-day free trial (up to 100 users, full access to course authoring, AI assistant, mobile app, and learning paths) |
+| **[Docebo](https://www.docebo.com/)** | Enterprise learning platform combining LMS and learning-experience capabilities, content management, AI-powered learning, personalization, analytics, and integrations. | Elevate / Growth tier starts at ~$25,000/year (approx. $5.00–$8.00/user/month for ~300+ monthly active users) | 14-day free trial upon request (single admin, sandbox tenant with sample content and user management) |
+| **[Learn Amp](https://www.learnamp.com/)** | Employee learning and engagement platform combining learning, performance, engagement, social learning, content, and people-development capabilities. | Starts at £3.50–£6.00/user/month (~$4.50–$8.00/user/month, base entry package from £250/month or £20,000/year enterprise) | 14-day free trial (available for organizations with <200 employees, access to core LMS/LXP and engagement features) |
+| **[Valamis](https://www.valamis.com/)** | Enterprise learning and knowledge platform focused on personalized learning, skills development, knowledge sharing, learning analytics, and workforce transformation. | Starts at ~$1.50–$4.00/user/month (or ~€30,000/year base entry for enterprise deployment) | 30-day proof-of-concept / guided trial environment upon demo request |
+| **[Cornerstone Learning Experience](https://www.cornerstoneondemand.com/)** | Enterprise learning-experience capabilities within the Cornerstone ecosystem, providing personalized content discovery, learning pathways, skills, recommendations, and workforce development. | Starts at ~$6.00/user/month (~$72.00/user/year, with typical entry contract threshold around $25,000/year) | 14-to-30-day guided evaluation sandbox upon sales request (restricted test environment with sample learner data) |
+| **[HowNow](https://www.gethownow.com/)** | Learning and knowledge platform focused on contextual learning, knowledge discovery, AI-powered recommendations, employee enablement, and learning in the flow of work. | Essentials plan starts at £60.00/user/year (~£5.00/user/month or ~$6.50/user/month); Pro plan starts at £80.00/user/year | 14-day free trial (full access to AI knowledge discovery, browser extension, integrations, and pathway builder) |
+| **[Disprz](https://disprz.com/)** | AI-powered corporate learning and skills platform focused on personalized learning, skills intelligence, content, assessments, and workforce capability development. | Starts at $2.50–$4.00/user/month (~$30.00–$48.00/user/year, onboarding minimum ~$3,000/year) | 14-day interactive demo / trial environment upon request (up to 25 test learners) |
+| **[Thrive Learning](https://www.thrivelearning.com/)** | Learning-experience platform combining personalized feeds, social learning, communities, mentoring, AI-powered content discovery, pathways, compliance learning, and LMS capabilities. | Starts at £5.00–£8.00/user/month (~$6.50–$10.50/user/month, minimum annual commitment starting around £15,000/year) | 30-day trial / sandbox access upon request (full features including social feed, AI discovery, and compliance modules) |
+| **[Fuse Universal](https://www.fuseuniversal.com/)** | Learning and knowledge platform emphasizing user-generated content, social learning, knowledge sharing, and learning in the flow of work. | Starts at ~$4.00–$8.00/user/month (minimum annual contract entry starting around $25,000/year) | 14-to-30-day sandbox pilot upon sales request (sample communities, video ingestion, and microlearning feeds) |
+| **[Schoox](https://www.schoox.com/)** | Corporate learning platform combining learning management, employee development, social learning, content, and analytics. | Starts at ~$4.00–$6.00/user/month (or starting tier base package around $2,000–$5,000/year) | 14-day guided trial / sandbox on sales qualification (course builder, social learning, mobile learning access) |
+| **[Skillsoft Percipio](https://www.skillsoft.com/percipio)** | Enterprise learning-experience and content platform providing personalized learning, skill development, curated content, and learning analytics. | Personal plan starts at $20.00/month (~$199.00/year); Team plan starts at ~$55.00/user/month (~$599.00/user/year); Enterprise volume rates scale to ~$50.00–$100.00/user/year | 14-day free trial (unlimited access to full course library, books, audiobooks, and Skill Benchmarks for 1 user/team) |
+| **[Go1](https://www.go1.com/)** | Enterprise learning-content platform aggregating courses and learning resources from multiple providers. | Premium subscription starts at ~$4.00–$8.00/user/month (~$48.00–$96.00/user/year, typically 20-seat minimum) | 14-day free trial (access to full content aggregator library, curated playlists, and LMS integration preview) |
+| **[Moodle Workplace](https://moodle.com/workplace/)** | Enterprise Moodle offering organizational learning management, learning programs, certifications, reporting, and integrations. | Partner-hosted packages start at ~$3,500–$6,000/year (or ~$3.00–$5.00/user/month); core Moodle LMS is free open source | Open-source Moodle LMS is free forever; Moodle Workplace hosted demo / 30-day trial sandbox available via authorized Moodle Partners (sample corporate multi-tenancy and compliance reports) |
+| **[SAP SuccessFactors Learning](https://www.sap.com/products/hcm/learning.html)** | Enterprise learning platform integrated with SAP's HCM ecosystem for employee development, learning, compliance, and skills. | Starts at ~$2.17–$4.50/user/month (~$26.00–$54.00/user/year as an HCM module add-on; minimum annual contract ~$10,000–$25,000/year) | 30-day free trial of SAP SuccessFactors HCM suite (shared multi-tenant environment with pre-populated demo learner profiles, no custom data upload) |
+| **[Workday Learning](https://www.workday.com/)** | Enterprise learning platform integrated with Workday HCM for learning, development, skills, and workforce capabilities. | Starts at ~$5.00–$8.00/user/month (~$60.00–$96.00/user/year as a Workday HCM module add-on; minimum contract ~$50,000/year) | 30-day guided proof-of-concept demo environment for existing Workday HCM customers through sales evaluation (no standalone public self-service trial) |
+| **[Oracle Learning](https://www.oracle.com/human-capital-management/learning/)** | Enterprise learning platform integrated with Oracle Cloud HCM for employee development, learning, compliance, and skills. | Oracle Fusion Cloud HCM Learning module list price starts at $2.00/user/month ($24.00/user/year) | Oracle Cloud Free Tier provides $300 cloud credits for 30 days; 30-day guided HCM pilot sandbox upon sales engagement |
+| **[LinkedIn Learning](https://learning.linkedin.com/)** | Enterprise learning-content platform providing professional courses, personalized recommendations, skills content, and workforce-learning integrations. | Individual plan starts at $29.99/month (or $239.88/year billed annually); Team plan starts at $379.88/user/year (2–20 seats) | 30-day (1 month) free trial for individual/team accounts (unlimited access to 20,000+ video courses, practice exercises, and certificates) |
+| **[Coursera for Business](https://www.coursera.org/business)** | Enterprise learning platform providing professional courses, credentials, skills development, and learning analytics. | Team plan starts at $399.00/user/year (for 5 to 125 users; promotional rates from $279.30/user/year) | 14-day free trial / money-back evaluation window for Team plan (up to 5 users, access to 10,000+ courses, Guided Projects, and Skill Tracks) |
+| **[Udemy Business](https://business.udemy.com/)** | Enterprise learning-content platform providing a large catalog of professional courses and skills-development content. | Team plan starts at $30.00/user/month billed annually ($360.00/user/year, for 2 to 20 users) | 14-day free trial for Team plan (up to 20 users, access to 11,000+ curated business and tech courses, learning paths, and analytics) |
+| **[Pluralsight](https://www.pluralsight.com/business)** | Technology-skills learning platform providing courses, assessments, skill analytics, and technical workforce development. | Individual Starter starts at $29.00/month ($299.00/year); Skills Team plan starts at $399.00/user/year (up to 10 users) | 10-day free trial (up to 200 minutes of content or 10 days, access to course library, Skill IQ, and Role IQ assessments; sandboxes limited) |
+| **[O'Reilly Learning](https://www.oreilly.com/online-learning/)** | Enterprise technical learning platform offering books, courses, videos, interactive content, and learning resources. | Individual Premium starts at $49.00/month ($499.00/year); Team plan starts at $499.00/user/year (small-to-mid teams) | 10-day free trial (unlimited access to full catalog of books, audiobooks, video courses, interactive sandboxes, and certification guides) |
 
 ## Open-Source GitHub Projects
 
